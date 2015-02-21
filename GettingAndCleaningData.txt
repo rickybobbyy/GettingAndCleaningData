@@ -1,0 +1,19 @@
+git clone https://github.com/rickybobbyy/datasciencecoursera.git
+
+use Insert key to copy and paste above command into Git Bash
+
+cd datasciencecoursera
+
+Tracking New Files
+In order to begin tracking a new file, you use the command git add. To begin tracking the README file, you can run this:
+
+$ git add README.MD
+git add MarkDown.MD
+git add run_analysis.R
+
+git status
+
+git commit -m 'getting and cleaning data'
+
+git push origin master
+
