@@ -1,10 +1,8 @@
-<p><markdown>
-
-**Getting and Cleaning Data Project** 
+#Getting and Cleaning Data Project** 
 
 This repo contains the deliverables for the "Getting and Cleaning Data" Coursera Course Project
 
-**Files in this repostitory**
+**Files in this repository**
 
 **run_analysis.R** is the R script that can be run to perform the 5 steps in the project requirements described below.
 
